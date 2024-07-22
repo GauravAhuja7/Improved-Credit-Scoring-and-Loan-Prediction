@@ -5,7 +5,7 @@ This project aims to revolutionize the lending industry by developing an AI-Enha
 
 **Uniqueness**
 **Key Features:**
-Diverse Data Sources: Unlike traditional credit scoring models, our system integrates non-traditional data points, ensuring a comprehensive evaluation of an individual’s financial behavior.
+Diverse Data Sources: Unlike traditional credit scoring models, our system integrates non-traditional data points, ensuring a comprehensive evaluation of an individual’s financial behavior taken from YouData.ai. 
 Sophisticated AI Algorithms: Utilizing machine learning techniques, our model continuously improves and adapts, making it more robust and reliable over time.
 Analyzed Data Includes:
 Bank Statements
